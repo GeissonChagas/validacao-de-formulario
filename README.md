@@ -1,2 +1,13 @@
-# validacao-de-formulario
-Projeto para validação de formulário com JavaScript
+<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+
+<hr>
+
+<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
+<p align="center">Formulário de criação de contas para o banco virtual MoniBank. Curso feito na plataforma alura com objetivo de elaborar uma validação de formulário mais funcionalidades.</p>
+
+## Tecnologias utilizadas durante o curso
+* JavaScript
+
+## Tecnologias utilizadas no projeto
+* HTML
+* CSS
